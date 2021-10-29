@@ -40,3 +40,4 @@ public class Category implements Serializable{
 
     public void setOrtopedics(List<Ortopedic> ortopedics) {this.ortopedics = ortopedics;}
 }
+
